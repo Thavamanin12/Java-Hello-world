@@ -6,6 +6,7 @@
 
   <groupId>com.example.com</groupId>
   <artifactId>Hello-world-app</artifactId>
+  <version>1.0.0</version>
   <packaging>war</packaging>
   
   <name>Hello-world-app</name>
