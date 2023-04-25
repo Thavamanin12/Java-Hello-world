@@ -28,4 +28,15 @@
     </dependency>
   </dependencies>
   
+  <build>
+    <plugins>
+      <!-- Enable building as a .war file with `mvn package` -->
+      <plugin>
+        <artifactId>maven-war-plugin</artifactId>
+        <version>3.3.1</version>
+      </plugin>
+    </plugins>
+
+  </build>
+  
 </project>
